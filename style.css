@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+h1 {
+  color:blue;
+  text-align: center;
+  font-family: Imprint Mt Shadow;
+  margin: 0px;
+}
+h2 {
+  color:blue;
+  text-align: center;
+}
+  
+li {
+  color:white;
+}
+img {
+  width: 125px;
+  float: right;
+  border: Solid;
+  border-color:Green;
+  border-width: 10px;
+  border-radius: 20px
+}
+p {
+  color:white;
+
+}
+h5 {
+  color: red;
+  text-align:right;
+}
+  
